@@ -1,0 +1,14 @@
+body, input, textarea {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+dt {
+  margin: 0.5em;
+}
+
+label:before {
+  content: "Hello World";
+  color: red;
+  text-shadow: 0 0 10px #333;
+}
